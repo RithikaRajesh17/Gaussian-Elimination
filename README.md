@@ -32,8 +32,8 @@ Verify the results for correctness.
 ## Program:
 ```python
 '''Program to solve a matrix using Gaussian elimination without partial pivoting.
-Developed by: Mohamed Riyaz Ahamed
-RegisterNumber: 24900085
+Developed by: Rithika R
+RegisterNumber: 212224240136
 '''
 import numpy as np
 import sys
