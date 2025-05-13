@@ -26,7 +26,7 @@ Perform backward substitution to compute the solution:
 ### Step 5:  
 Display the solution values of all variables using formatted output.
 
-### Step 6:  
+### Step 6:    
 Verify the results for correctness.
 
 ## Program:
